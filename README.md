@@ -27,7 +27,6 @@ This repository contains detailed results and instances for the paper [Zubaran, 
   journal =	 {Comp. Oper. Res.},
   year = 	 {2018},
   volume =	 {93},
-  OPTnumber = 	 {},
   pages =	 {51--65},
   month =	 may,
   doi = 	 {10.1016/j.cor.2018.01.015}
