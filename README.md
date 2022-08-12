@@ -16,7 +16,7 @@ This repository contains detailed results and instances for the paper [Zubaran, 
 
 ## Instances and schedules
 
-[Instances](instances/Instances.tar.gz) and [Schedules](instances/Schedules.tar.gz)
+[Instances](instances/Instances.tar.gz) and [Schedules](instances/Schedules.tar.gz).
 
 ## How to cite
 
