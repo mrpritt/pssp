@@ -12,7 +12,7 @@ This repository contains detailed results and instances for the paper [Zubaran, 
 6. Table in Figure 14: [Comparing ITS with the Tabu search for the MSS problem (Liu & Ong, 2004)](tables/TableFig14_mss.dat).
 7. Table in Figure 15: [Comparing ITS with the PSO for OSS problem (Sha & Hsu, 2008) for the instances proposed by Taillard (1993)](tables/TableFig15_oss.dat).
 8. Table in Figure 16: [Comparing ITS with the PSO for OSS problem (Sha & Hsu, 2008) for the instances proposed by Brucker et al. (1997)](tables/TableFig16_oss.dat).
-9. Table in Figure 17: [Comparison of the PSO of Sha & Hsu (2008) to ITS on the OSS instances proposed by Gu´ eret & Prins (1999)](tables/Table17_oss.dat).
+9. Table in Figure 17: [Comparison of the PSO of Sha & Hsu (2008) to ITS on the OSS instances proposed by Guéret & Prins (1999)](tables/Table17_oss.dat).
 
 ## Instances and schedules
 
